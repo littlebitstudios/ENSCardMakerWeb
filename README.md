@@ -2,8 +2,9 @@
 This repo is based on [littlebitstudios/ENSCardMaker](https://github.com/littlebitstudios/ENSCardMaker), but it runs a Flask web server that generates the same cards as the original.
 
 # Usage
-I will be hosting the app at https://enscards.littlebitstudios.com.
-Just go to https://enscards.littlebitstudios.com/<user> to get a card.
+I will be hosting the app at https://enscards.littlebitstudios.com.<br>
+Just go to `https://enscards.littlebitstudios.com/[user]` to get a card.<br>
+`[user]` can be an ENS name (someone.eth) or ETH address (0xXXXX...XXXX).
 
 Here's mine:
 
