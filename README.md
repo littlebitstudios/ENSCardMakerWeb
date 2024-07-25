@@ -3,6 +3,11 @@ This repo is based on [littlebitstudios/ENSCardMaker](https://github.com/littleb
 
 # Usage
 I will be hosting the app at https://enscards.littlebitstudios.com.
+Just go to https://enscards.littlebitstudios.com/<user> to get a card.
+
+Here's mine:
+
+![card](https://enscards.littlebitstudios.com/littlebit670.eth)
 
 You can also self-host the app using your own Docker instance:
 ```yaml
