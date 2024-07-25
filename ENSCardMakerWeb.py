@@ -14,7 +14,7 @@ def generate_card(user):
 
     profilerequest = requests.get(f"http://enstate.rs/u/{user}")
     if profilerequest.status_code != 200:
-        return f"Error: Request failed with status code {profilerequest.status_code}", 500
+        return f"Error: Request failed with status code {profilerequest.status_code}", profilerequest.status_code
 
     profilejson = profilerequest.content.decode("utf-8")
     profile = json.loads(profilejson)
