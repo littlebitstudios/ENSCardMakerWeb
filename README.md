@@ -24,7 +24,7 @@ services:
 ```
 
 # Credits/Licensing
-The font used for generating the cards is Inter by Rasmus Andersson, licensed under the [Open Font License](https://openfontlicense.org). Download the font from [Google Fonts](https://fonts.google.com/specimen/Inter).
+The font used for generating the cards is Inter by Rasmus Andersson, licensed under the [Open Font License](https://openfontlicense.org). Download the font from [the author's website](https://rsms.me/inter).
 
 ENS (the brand) is owned by ENS Labs Limited.
 
